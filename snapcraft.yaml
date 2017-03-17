@@ -6,7 +6,7 @@ description: |
   control. Installation in less than a minute.
   See https://home-assistant.io/ for more details.
 icon: homeassistant/components/frontend/www_static/icons/favicon-512x512.png
-version: 0.37.1
+version: 0.40.1
 confinement: strict
 grade: stable
 
