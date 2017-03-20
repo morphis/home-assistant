@@ -23,7 +23,7 @@ parts:
   common:
     plugin: dump
     source: virtualization/snap
-    snap:
+    prime:
       - hass.wrapper
   home-assistant:
     plugin: python
