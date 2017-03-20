@@ -28,4 +28,9 @@ parts:
   home-assistant:
     plugin: python
     source: .
+    build-packages:
+      - build-essential
+      - libffi-dev
+      - libssl-dev
+      - zlib1g-dev
     requirements: requirements_all.txt
